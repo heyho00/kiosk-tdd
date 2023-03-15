@@ -108,3 +108,5 @@ dist
 
 # Parcel
 .parcel-cache/
+
+/test-results/
